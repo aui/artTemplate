@@ -32,7 +32,7 @@
     "acorn": "^5.0.3",
     "escodegen": "^1.8.1",
     "estraverse": "^4.2.0",
-    "html-minifier": "^3.4.3",
+    "html-minifier": "^4.0.0",
     "is-keyword-js": "^1.0.3",
     "js-tokens": "^3.0.1",
     "merge-source-map": "^1.0.3",
